@@ -9,8 +9,9 @@ Rails.application.routes.draw do
   # root "posts#index"
   root 'pages#index'
 
-  get 'kylanpl', to: 'pages#kylanpl', as: :kylanpl
-  get 'rarainey', to: 'pages#rarainey', as: 'rarainey'
+  get 'hrizeq17', to: 'pages#hrizeq17', as: 'hrizeq17'
   get 'alan786', to: 'pages#alan786', as: 'alan786'
-
+  get 'rarainey', to: 'pages#rarainey', as: 'rarainey'
+  get 'kylanpl', to: 'pages#kylanpl', as: 'kylanpl'
+  
 end

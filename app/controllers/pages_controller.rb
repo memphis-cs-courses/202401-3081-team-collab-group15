@@ -8,4 +8,6 @@ class PagesController < ApplicationController
 
   def rarainey
   end
+  def hrizeq17
+  end 
 end
